@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Data Analysis/ Image Processing/ Computer Vision
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Proficient in Python programming language to analyze, visualize data Capable of data procesing. Understanding SQL Quey language .Able to__ using Microsoft SQL Server and visualize data into an interactive dashboard
+            using Power BI tools, Able to use numpy, pandas to process and handle data. Plotting data into a graph using matplotlib and plotly library. I have
+            done several personal project to demonstrate my skills in these libraries"
+  url: "https://www.python.org"
+
+- name: Front-End Web Development
+  logo: "/images/sections/skills/go.png"
+  summary: "Using CSS and Javascript as the language for front-end development. Capable to work with Bootstrap, React JS, Gatsby JS and Next JS Framework. Develop UI/UX that are attractive."
+  url: "https://www.javascript.com/"
+
+- name: Machine Learning/ Artificial Intelligence
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with machine learning projects using computer vision OpenCV library, tensorflow. Image processing algorithm . Image classification such as binary and multi-class clasification.
+            U-Net segmentation, and so on..."
