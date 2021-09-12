@@ -12,16 +12,16 @@ designation: Software Engineer
 # your company information
 # company:
 #   name: Example Co.
-#   url: "https://www.example.com"
+#   url: "http://www.onezero.com.my"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'A freshgraduate Software Engineer from Universiti Malaysia Sarawak (UNIMAS). I will be graduating in -/-/-.
-						I have a keen interest in Image Processing, Computer VIsion, Machine Learning and Artifical Intelligence (AI) fields.
-						I possess a working proficiency in Python language and Javascript languages.  Tensorflow. Enthusiast in machine learning, image processing and computer vision field. 
-						I have built some projects___. I am proficient in Malay and English '
+						I have a keen interest in Front-End Development, Image Processing, Computer VIsion, Machine Learning and Artifical Intelligence (AI) fields.
+						I possess a working proficiency in Python and Javascript languages. Besides,  Tensorflow. Enthusiast in machine learning, image processing and computer vision field. 
+						I have built some personal projects to articulate my skills in these areas in my GitHub pages.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -29,6 +29,9 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/Cyrill98"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/cyrill-anwar-a8638819a/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
