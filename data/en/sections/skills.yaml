@@ -14,8 +14,7 @@ skills:
 - name: Data Analysis/ Image Processing/ Computer Vision
   logo: "/images/sections/skills/kubernetes.png"
   summary: "Possessed a full working proficieny in Python programming language. Comprehensive knowledge of SQL Query language . Experience in working with Microsoft SQL 
-            Server and visualize data into an interactive dashboard and using analytical tools such as Power BI. Able to use numpy, pandas to process and handle data. Plotting data into a graph using matplotlib and plotly library. I have
-            done several personal project to demonstrate my skills in these libraries"
+            Server and visualize data into an interactive dashboard and using analytical tools such as Power BI. Able to use numpy, pandas to process and handle data. Plotting data into a graph using matplotlib and plotly library."
   url: "https://www.python.org"
 
 - name: Front-End Web Development

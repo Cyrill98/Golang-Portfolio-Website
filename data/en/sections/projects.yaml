@@ -21,62 +21,60 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: Travel Advisor
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
+  role: Author
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  repo: https://github.com/Cyrill98/Food-Advisor-ReactJS- # If your project is a public repo on GitHub, then provide this link. it will show star count.
   summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  tags: ["ReactJS", "Javascript", "MaterialUI"]
 
 - name: Final Year Project
   logo: /images/sections/projects/tensorflow.png
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: https://youtu.be/CHJxjs-maWY
   summary: A computer-vision projects that detects whether the students is distracted during exam. 
           Experience in data collection, preprocessing. Using OpenCV library and Tensorflow
   tags: ["professional", "machine-learning","academic", "computer-vision"]
 
-- name: Toha
+- name: Diabetes Web Prediction
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
+  repo: https://github.com/Cyrill98/Diabetes_Web_Prediction
+  summary: Diabetes Prediction Website deployed using Heroku
   tags: ["hobby","hugo","theme","professional"]
 
-- name: Toha
+- name: Data Analysis
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  repo: https://github.com/Cyrill98/Data-Analysis-Python-
+  summary: Cleaning and Format Raw Excel file using Python
+  tags: ["Numpy","Pandas","Excel","Python"]
 
-- name: Toha
+- name: Extract PDF to CSV 
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
+  repo: https://github.com/Cyrill98/Extract-Invoice-PDF-file-to-CSV
+  summary: Extracting useful information from pdf files which contains the invoice history report to a csv file for further processing.
   tags: ["hobby","hugo","theme","professional"]
 
-- name: Toha
+- name: Cotton Disease Prediction
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://github.com/Cyrill98/Cotton-Disease-Prediction
   summary: A Hugo theme for personal portfolio.
   tags: ["hobby","hugo","theme","professional"]
 
 
-- name: Toha
+- name: Bank Note Authentication
   logo: /images/sections/projects/toha.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://github.com/Cyrill98/Bank-Note-Authentication
   summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  tags: ["finance","machine learning","streamlit","professional"]

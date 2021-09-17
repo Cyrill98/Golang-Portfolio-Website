@@ -23,9 +23,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and develop software features using C# and .Net Framework
+    - Develop a static website for guiding user to use the software using HTML, CSS, and JavaScript.
+    - Integrating the company POS software with the payment hardware
 
 # - company:
 #     name: PreExample Co.
