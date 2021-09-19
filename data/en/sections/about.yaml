@@ -7,14 +7,14 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
+# My designation
 designation: Software Engineer
-# your company information
+# My company information
 # company:
 #   name: Example Co.
 #   url: "http://www.onezero.com.my"
 
-# your resume. this file path should be relative to you "static" directory
+# My resume. this file path should be relative to you "static" directory
 resume: "files/Cyrill Anwar.pdf"
 
 # a summary about you
