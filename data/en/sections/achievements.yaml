@@ -10,15 +10,26 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Machine Learning Professional Certification
+  image: /images/sections/achievements/Rapidminer-ML-Cert.png
+  summary: Champion in cycling inter-city cycling championship 2020.
+
 - title: Microsoft Azure DAX-1000
   image: /images/sections/achievements/presenter.jpg
   summary: In Progress (Currently taking).
-- title: Google Tensorflow Certificate
-  image: resources\_gen\images\tensorflow_hu610a95f6d7ddb256beadba1bd7cb282d_6965_24x24_fit_box_3.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Python Programming Cert
+  
+- title: Introduction to Python Programming
   image: /images/sections/achievements/woman-winner.jpg
   summary: In Progress (Currently taking).
+
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Software Engineering (B.Sc.) in Computer Science and Information Technology from University Malaysia Sarawak (UNIMAS).
+
+- title: Data Engineering Professional Certification
+  image: /images/sections/achievements/Rapidminer-Data-Engineering.png
+  summary: Some topics that tested at this level are; Data access, Basic Transformations, Working With Multiple Data Sets, Pivot Tables and Simple Text Processing.
+
+- title: Applications & Use Cases Professional Certification
+  image: /images/sections/achievements/Rapidminer-use-case.png
+  summary: Some topics that tested at this level are; Introduction to Machine Learning, CRISP-DM and Variants, Use Cases for Machine Learning, Visualization and What to do with Models.
