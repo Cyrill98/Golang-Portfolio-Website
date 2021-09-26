@@ -33,7 +33,6 @@ projects:
   logo: /images/sections/projects/tensorflow.png
   role: Developer
   timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
   url: https://youtu.be/CHJxjs-maWY
   summary: A computer-vision projects that detects whether the students is distracted during exam. 
           Experience in data collection, preprocessing. Using OpenCV library and Tensorflow

@@ -11,8 +11,8 @@ section:
 # Your achievements achievements
 achievements:
 - title: Machine Learning Professional Certification
-  image: /images/sections/achievements/Rapidminer-ML-Cert.png
-  summary: Champion in cycling inter-city cycling championship 2020.
+  image: /images/sections/achievements/Rapidminer-ML-Cert.PNG
+  summary: Some topics that tested at this level are; Classification, Scoring, Hold-Out Validation, Correlations, Feature Importance, and Association Rules.
 
 - title: Microsoft Azure DAX-1000
   image: /images/sections/achievements/presenter.jpg
@@ -27,9 +27,9 @@ achievements:
   summary: Received Bachelor of Software Engineering (B.Sc.) in Computer Science and Information Technology from University Malaysia Sarawak (UNIMAS).
 
 - title: Data Engineering Professional Certification
-  image: /images/sections/achievements/Rapidminer-Data-Engineering.png
+  image: /images/sections/achievements/Rapidminer-Data-Engineering.PNG
   summary: Some topics that tested at this level are; Data access, Basic Transformations, Working With Multiple Data Sets, Pivot Tables and Simple Text Processing.
 
 - title: Applications & Use Cases Professional Certification
-  image: /images/sections/achievements/Rapidminer-use-case.png
+  image: /images/sections/achievements/Rapidminer-use-case.PNG
   summary: Some topics that tested at this level are; Introduction to Machine Learning, CRISP-DM and Variants, Use Cases for Machine Learning, Visualization and What to do with Models.
